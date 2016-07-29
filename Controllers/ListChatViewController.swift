@@ -2,7 +2,6 @@
 //  ListChatViewController.swift
 //  LittleBigCity
 //
-//  Created by Thomas Leblanc on 21/01/16.
 //  Copyright © 2016 Viet Phuong Tran. All rights reserved.
 //
 
